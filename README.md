@@ -1,4 +1,4 @@
-# KukaVisualizationRevUC.github.io
+# Visualizing the Movements of Kuka 7 Node Robot Arm through Unity and C Sharp
 
 ## Inspiration
 The inspiration for Visualizing Kuka 7 Node Robot Arm came from our interest in robotics and automation. We wanted to create a tool that could help engineers and researchers visualize the movements of a Kuka 7 Node Robot Arm. Coming into the hackathon, we wanted to do something related to that and we ended up running into Mitchell of Kinetic Vision who told us that there was a challenge relating to visualizing the movement of the robot. 
